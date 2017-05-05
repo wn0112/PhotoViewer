@@ -1,7 +1,7 @@
 # PhotoViewer
 Image viewer written in Python 2.7 + PyQt 4. It supports multiple image formats.
 
-####Features
+## Features
 
 * Next/Previous picture
 * Zoom in/out
@@ -13,5 +13,5 @@ Image viewer written in Python 2.7 + PyQt 4. It supports multiple image formats.
 * Frameless window
 * Multiple theme
 
-####Screenshot
+## Screenshot
 ![PhotoViewer](https://github.com/wn0112/PhotoViewer/blob/master/screenshot.png)
