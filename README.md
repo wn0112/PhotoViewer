@@ -1,5 +1,5 @@
 # PhotoViewer
-Image viewer written in Python 2.7 + PyQt 4. It supports multiple image formats.
+Image viewer code by Python 2.7 + PyQt 4. Multiple image formats supports.
 
 ## Features
 
